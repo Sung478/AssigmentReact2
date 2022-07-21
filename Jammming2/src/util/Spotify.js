@@ -1,5 +1,5 @@
 const clientID = 'd7aaeee05f524187acefa796fb5fe946';
-const redirectURI = "assigment-react2.vercel.app";
+const redirectURI = "https://assigment-react2.vercel.app";
 let accessToken;
 let expireIn;
 
